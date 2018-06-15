@@ -1,3 +1,3 @@
-# cdice
+# dice
 
  this is a dice game created using javascript
